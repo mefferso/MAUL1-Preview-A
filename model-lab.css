@@ -1,0 +1,27 @@
+.model-lab { max-width: 1440px; margin: 1rem auto 2rem; }
+.model-lab-heading { display: flex; justify-content: space-between; align-items: flex-start; gap: 1rem; }
+.model-lab-heading h2 { margin: .1rem 0 .6rem; }
+.model-lab-kicker { color: var(--color-ocean); font-weight: 750; letter-spacing: .06em; text-transform: uppercase; font-size: .76rem; margin: 0; }
+.research-only-badge { display: inline-block; border: 1px solid var(--color-border-strong); color: var(--color-status-ink); background: var(--color-status-bg); padding: .38rem .65rem; border-radius: 999px; font-size: .78rem; font-weight: 700; white-space: nowrap; }
+.model-lab-caveat { border-left: 4px solid var(--color-border-strong); background: var(--color-surface-soft); padding: .8rem 1rem; }
+.model-lab-controls { display: grid; grid-template-columns: repeat(3, minmax(180px, 1fr)); gap: .85rem; margin: 1.2rem 0; }
+.model-lab-controls label { display: grid; gap: .35rem; font-weight: 650; }
+.model-lab-controls select { min-height: 2.6rem; padding: .4rem .55rem; border: 1px solid var(--color-border-strong); border-radius: .35rem; background: white; color: var(--color-ink); }
+.model-lab-section { margin: 1.2rem 0; padding: 1rem; background: var(--color-surface); border: 1px solid var(--color-border); border-radius: .55rem; }
+.model-lab-section h3 { margin: 0 0 .5rem; }
+.model-lab-grid { display: grid; grid-template-columns: minmax(0, 1.5fr) minmax(260px, 1fr); gap: 1rem; }
+.table-scroll { max-width: 100%; overflow-x: auto; }
+.model-lab-table { width: 100%; border-collapse: collapse; font-variant-numeric: tabular-nums; }
+.model-lab-table th, .model-lab-table td { padding: .55rem .65rem; border-bottom: 1px solid var(--color-border); text-align: right; white-space: nowrap; }
+.model-lab-table thead th { background: var(--color-surface-soft); color: var(--color-ink); font-size: .82rem; }
+.model-lab-table th:first-child, .model-lab-table td:first-child { text-align: left; }
+.model-lab-table tbody th { font-weight: 600; }
+.model-swatch { display: inline-block; vertical-align: middle; width: .65rem; height: .65rem; border-radius: 50%; background: var(--model-color); margin: 0 .45rem .08rem 0; }
+.model-lab-chart { width: 100%; min-height: 360px; }
+#model-lab-status { padding: .8rem; border-radius: .4rem; background: var(--color-surface-soft); }
+@media (max-width: 760px) {
+  .model-lab-heading { display: block; }
+  .research-only-badge { margin: .35rem 0; white-space: normal; }
+  .model-lab-controls, .model-lab-grid { grid-template-columns: 1fr; }
+  .model-lab-table th, .model-lab-table td { padding: .45rem; font-size: .82rem; }
+}

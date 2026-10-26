@@ -1,0 +1,505 @@
+[
+  {
+    "issuance_id": "d4935e479e83311c",
+    "actual_issue_time_utc": "2026-10-22T13:53:11Z",
+    "mode": "authentic",
+    "forecast_file": "../archive/issues/d4935e479e83311c.json",
+    "verification_files": [
+      "../verification/d4935e479e83311c-0001.json",
+      "../verification/d4935e479e83311c-0006.json",
+      "../verification/d4935e479e83311c-0011.json"
+    ]
+  },
+  {
+    "issuance_id": "89499726cc230502",
+    "actual_issue_time_utc": "2026-10-22T15:54:15Z",
+    "mode": "authentic",
+    "forecast_file": "../archive/issues/89499726cc230502.json",
+    "verification_files": [
+      "../verification/89499726cc230502-0001.json",
+      "../verification/89499726cc230502-0006.json",
+      "../verification/89499726cc230502-0011.json"
+    ]
+  },
+  {
+    "issuance_id": "4f21ead5955a6c06",
+    "actual_issue_time_utc": "2026-10-22T16:03:07Z",
+    "mode": "authentic",
+    "forecast_file": "../archive/issues/4f21ead5955a6c06.json",
+    "verification_files": [
+      "../verification/4f21ead5955a6c06-0001.json",
+      "../verification/4f21ead5955a6c06-0006.json",
+      "../verification/4f21ead5955a6c06-0011.json"
+    ]
+  },
+  {
+    "issuance_id": "42f3f21db0dce0c5",
+    "actual_issue_time_utc": "2026-10-22T16:10:27Z",
+    "mode": "authentic",
+    "forecast_file": "../archive/issues/42f3f21db0dce0c5.json",
+    "verification_files": [
+      "../verification/42f3f21db0dce0c5-0001.json",
+      "../verification/42f3f21db0dce0c5-0006.json",
+      "../verification/42f3f21db0dce0c5-0011.json"
+    ]
+  },
+  {
+    "issuance_id": "5d93439d7f93f883",
+    "actual_issue_time_utc": "2026-10-22T16:18:59Z",
+    "mode": "authentic",
+    "forecast_file": "../archive/issues/5d93439d7f93f883.json",
+    "verification_files": [
+      "../verification/5d93439d7f93f883-0001.json",
+      "../verification/5d93439d7f93f883-0006.json",
+      "../verification/5d93439d7f93f883-0011.json"
+    ]
+  },
+  {
+    "issuance_id": "9a338ac56deab19b",
+    "actual_issue_time_utc": "2026-10-22T17:11:07Z",
+    "mode": "authentic",
+    "forecast_file": "../archive/issues/9a338ac56deab19b.json",
+    "verification_files": [
+      "../verification/9a338ac56deab19b-0001.json",
+      "../verification/9a338ac56deab19b-0006.json",
+      "../verification/9a338ac56deab19b-0011.json"
+    ]
+  },
+  {
+    "issuance_id": "2f0a0ac7ed78e1e2",
+    "actual_issue_time_utc": "2026-10-22T18:33:36Z",
+    "mode": "authentic",
+    "forecast_file": "../archive/issues/2f0a0ac7ed78e1e2.json",
+    "verification_files": [
+      "../verification/2f0a0ac7ed78e1e2-0001.json",
+      "../verification/2f0a0ac7ed78e1e2-0006.json",
+      "../verification/2f0a0ac7ed78e1e2-0011.json"
+    ]
+  },
+  {
+    "issuance_id": "edb05c6594a39503",
+    "actual_issue_time_utc": "2026-10-22T19:45:18Z",
+    "mode": "authentic",
+    "forecast_file": "../archive/issues/edb05c6594a39503.json",
+    "verification_files": [
+      "../verification/edb05c6594a39503-0001.json",
+      "../verification/edb05c6594a39503-0006.json",
+      "../verification/edb05c6594a39503-0011.json"
+    ]
+  },
+  {
+    "issuance_id": "d95bcc9b4aebd673",
+    "actual_issue_time_utc": "2026-10-22T20:19:44Z",
+    "mode": "authentic",
+    "forecast_file": "../archive/issues/d95bcc9b4aebd673.json",
+    "verification_files": [
+      "../verification/d95bcc9b4aebd673-0001.json",
+      "../verification/d95bcc9b4aebd673-0006.json",
+      "../verification/d95bcc9b4aebd673-0011.json"
+    ]
+  },
+  {
+    "issuance_id": "48ee08dc847b6df1",
+    "actual_issue_time_utc": "2026-10-22T20:32:03Z",
+    "mode": "authentic",
+    "forecast_file": "../archive/issues/48ee08dc847b6df1.json",
+    "verification_files": [
+      "../verification/48ee08dc847b6df1-0001.json",
+      "../verification/48ee08dc847b6df1-0006.json",
+      "../verification/48ee08dc847b6df1-0011.json"
+    ]
+  },
+  {
+    "issuance_id": "5696146b22f65d25",
+    "actual_issue_time_utc": "2026-10-22T22:21:02Z",
+    "mode": "authentic",
+    "forecast_file": "../archive/issues/5696146b22f65d25.json",
+    "verification_files": [
+      "../verification/5696146b22f65d25-0001.json",
+      "../verification/5696146b22f65d25-0006.json",
+      "../verification/5696146b22f65d25-0011.json"
+    ]
+  },
+  {
+    "issuance_id": "059f9453b347364a",
+    "actual_issue_time_utc": "2026-10-23T01:31:45Z",
+    "mode": "authentic",
+    "forecast_file": "../archive/issues/059f9453b347364a.json",
+    "verification_files": [
+      "../verification/059f9453b347364a-0001.json",
+      "../verification/059f9453b347364a-0006.json",
+      "../verification/059f9453b347364a-0011.json"
+    ]
+  },
+  {
+    "issuance_id": "47d4ef52a46faef6",
+    "actual_issue_time_utc": "2026-10-23T07:32:55Z",
+    "mode": "authentic",
+    "forecast_file": "../archive/issues/47d4ef52a46faef6.json",
+    "verification_files": [
+      "../verification/47d4ef52a46faef6-0001.json",
+      "../verification/47d4ef52a46faef6-0006.json",
+      "../verification/47d4ef52a46faef6-0011.json"
+    ]
+  },
+  {
+    "issuance_id": "10aa3f7dcd17b69a",
+    "actual_issue_time_utc": "2026-10-23T11:28:07Z",
+    "mode": "authentic",
+    "forecast_file": "../archive/issues/10aa3f7dcd17b69a.json",
+    "verification_files": [
+      "../verification/10aa3f7dcd17b69a-0001.json",
+      "../verification/10aa3f7dcd17b69a-0006.json",
+      "../verification/10aa3f7dcd17b69a-0011.json"
+    ]
+  },
+  {
+    "issuance_id": "e1a2cf5a7932e584",
+    "actual_issue_time_utc": "2026-10-23T12:15:00Z",
+    "mode": "authentic",
+    "forecast_file": "../archive/issues/e1a2cf5a7932e584.json",
+    "verification_files": [
+      "../verification/e1a2cf5a7932e584-0001.json",
+      "../verification/e1a2cf5a7932e584-0006.json",
+      "../verification/e1a2cf5a7932e584-0011.json"
+    ]
+  },
+  {
+    "issuance_id": "53f81500041b1666",
+    "actual_issue_time_utc": "2026-10-23T13:27:17Z",
+    "mode": "authentic",
+    "forecast_file": "../archive/issues/53f81500041b1666.json",
+    "verification_files": [
+      "../verification/53f81500041b1666-0001.json",
+      "../verification/53f81500041b1666-0006.json",
+      "../verification/53f81500041b1666-0011.json"
+    ]
+  },
+  {
+    "issuance_id": "8f155e2ef71816bc",
+    "actual_issue_time_utc": "2026-10-23T15:05:14Z",
+    "mode": "authentic",
+    "forecast_file": "../archive/issues/8f155e2ef71816bc.json",
+    "verification_files": [
+      "../verification/8f155e2ef71816bc-0001.json",
+      "../verification/8f155e2ef71816bc-0006.json",
+      "../verification/8f155e2ef71816bc-0011.json"
+    ]
+  },
+  {
+    "issuance_id": "9a64b6dafe7b7a78",
+    "actual_issue_time_utc": "2026-10-23T15:52:58Z",
+    "mode": "authentic",
+    "forecast_file": "../archive/issues/9a64b6dafe7b7a78.json",
+    "verification_files": [
+      "../verification/9a64b6dafe7b7a78-0001.json",
+      "../verification/9a64b6dafe7b7a78-0006.json",
+      "../verification/9a64b6dafe7b7a78-0011.json"
+    ]
+  },
+  {
+    "issuance_id": "94c55ad0f9cadbd5",
+    "actual_issue_time_utc": "2026-10-23T16:46:53Z",
+    "mode": "authentic",
+    "forecast_file": "../archive/issues/94c55ad0f9cadbd5.json",
+    "verification_files": [
+      "../verification/94c55ad0f9cadbd5-0001.json",
+      "../verification/94c55ad0f9cadbd5-0006.json",
+      "../verification/94c55ad0f9cadbd5-0011.json"
+    ]
+  },
+  {
+    "issuance_id": "a910581ffe51337f",
+    "actual_issue_time_utc": "2026-10-23T18:21:56Z",
+    "mode": "authentic",
+    "forecast_file": "../archive/issues/a910581ffe51337f.json",
+    "verification_files": [
+      "../verification/a910581ffe51337f-0001.json",
+      "../verification/a910581ffe51337f-0006.json",
+      "../verification/a910581ffe51337f-0011.json"
+    ]
+  },
+  {
+    "issuance_id": "4adda46af61c1e7d",
+    "actual_issue_time_utc": "2026-10-23T22:11:21Z",
+    "mode": "authentic",
+    "forecast_file": "../archive/issues/4adda46af61c1e7d.json",
+    "verification_files": [
+      "../verification/4adda46af61c1e7d-0001.json",
+      "../verification/4adda46af61c1e7d-0006.json",
+      "../verification/4adda46af61c1e7d-0011.json"
+    ]
+  },
+  {
+    "issuance_id": "fc41a1e9dae53b1e",
+    "actual_issue_time_utc": "2026-10-24T00:42:38Z",
+    "mode": "authentic",
+    "forecast_file": "../archive/issues/fc41a1e9dae53b1e.json",
+    "verification_files": [
+      "../verification/fc41a1e9dae53b1e-0001.json",
+      "../verification/fc41a1e9dae53b1e-0006.json",
+      "../verification/fc41a1e9dae53b1e-0011.json"
+    ]
+  },
+  {
+    "issuance_id": "d4dd898903a96e30",
+    "actual_issue_time_utc": "2026-10-24T05:54:08Z",
+    "mode": "authentic",
+    "forecast_file": "../archive/issues/d4dd898903a96e30.json",
+    "verification_files": [
+      "../verification/d4dd898903a96e30-0001.json",
+      "../verification/d4dd898903a96e30-0006.json",
+      "../verification/d4dd898903a96e30-0011.json"
+    ]
+  },
+  {
+    "issuance_id": "f6a5754603097714",
+    "actual_issue_time_utc": "2026-10-24T11:00:14Z",
+    "mode": "authentic",
+    "forecast_file": "../archive/issues/f6a5754603097714.json",
+    "verification_files": [
+      "../verification/f6a5754603097714-0001.json",
+      "../verification/f6a5754603097714-0006.json",
+      "../verification/f6a5754603097714-0011.json"
+    ]
+  },
+  {
+    "issuance_id": "90f9b26424c15724",
+    "actual_issue_time_utc": "2026-10-24T11:08:36Z",
+    "mode": "authentic",
+    "forecast_file": "../archive/issues/90f9b26424c15724.json",
+    "verification_files": [
+      "../verification/90f9b26424c15724-0001.json",
+      "../verification/90f9b26424c15724-0006.json",
+      "../verification/90f9b26424c15724-0011.json"
+    ]
+  },
+  {
+    "issuance_id": "9d9f5e7830c6f6e6",
+    "actual_issue_time_utc": "2026-10-24T11:37:47Z",
+    "mode": "authentic",
+    "forecast_file": "../archive/issues/9d9f5e7830c6f6e6.json",
+    "verification_files": [
+      "../verification/9d9f5e7830c6f6e6-0001.json",
+      "../verification/9d9f5e7830c6f6e6-0006.json",
+      "../verification/9d9f5e7830c6f6e6-0011.json"
+    ]
+  },
+  {
+    "issuance_id": "6ad6788a77e61e19",
+    "actual_issue_time_utc": "2026-10-24T14:33:27Z",
+    "mode": "authentic",
+    "forecast_file": "../archive/issues/6ad6788a77e61e19.json",
+    "verification_files": [
+      "../verification/6ad6788a77e61e19-0001.json",
+      "../verification/6ad6788a77e61e19-0006.json",
+      "../verification/6ad6788a77e61e19-0011.json",
+      "../verification/6ad6788a77e61e19-0016.json"
+    ]
+  },
+  {
+    "issuance_id": "8820a55a777dcbc5",
+    "actual_issue_time_utc": "2026-10-24T15:21:21Z",
+    "mode": "authentic",
+    "forecast_file": "../archive/issues/8820a55a777dcbc5.json",
+    "verification_files": [
+      "../verification/8820a55a777dcbc5-0001.json",
+      "../verification/8820a55a777dcbc5-0006.json",
+      "../verification/8820a55a777dcbc5-0011.json"
+    ]
+  },
+  {
+    "issuance_id": "01003d13ea8a9cb8",
+    "actual_issue_time_utc": "2026-10-24T15:49:21Z",
+    "mode": "authentic",
+    "forecast_file": "../archive/issues/01003d13ea8a9cb8.json",
+    "verification_files": [
+      "../verification/01003d13ea8a9cb8-0001.json",
+      "../verification/01003d13ea8a9cb8-0006.json",
+      "../verification/01003d13ea8a9cb8-0011.json"
+    ]
+  },
+  {
+    "issuance_id": "17a4f11303ac79e9",
+    "actual_issue_time_utc": "2026-10-24T17:11:49Z",
+    "mode": "authentic",
+    "forecast_file": "../archive/issues/17a4f11303ac79e9.json",
+    "verification_files": [
+      "../verification/17a4f11303ac79e9-0001.json",
+      "../verification/17a4f11303ac79e9-0006.json",
+      "../verification/17a4f11303ac79e9-0011.json",
+      "../verification/17a4f11303ac79e9-0016.json"
+    ]
+  },
+  {
+    "issuance_id": "35aede6b08968ea1",
+    "actual_issue_time_utc": "2026-10-24T18:09:26Z",
+    "mode": "authentic",
+    "forecast_file": "../archive/issues/35aede6b08968ea1.json",
+    "verification_files": [
+      "../verification/35aede6b08968ea1-0001.json",
+      "../verification/35aede6b08968ea1-0006.json",
+      "../verification/35aede6b08968ea1-0011.json"
+    ]
+  },
+  {
+    "issuance_id": "2aedf596e3881d56",
+    "actual_issue_time_utc": "2026-10-24T20:49:47Z",
+    "mode": "authentic",
+    "forecast_file": "../archive/issues/2aedf596e3881d56.json",
+    "verification_files": [
+      "../verification/2aedf596e3881d56-0001.json",
+      "../verification/2aedf596e3881d56-0006.json",
+      "../verification/2aedf596e3881d56-0011.json"
+    ]
+  },
+  {
+    "issuance_id": "b998e8b89882d8b9",
+    "actual_issue_time_utc": "2026-10-24T23:14:44Z",
+    "mode": "authentic",
+    "forecast_file": "../archive/issues/b998e8b89882d8b9.json",
+    "verification_files": [
+      "../verification/b998e8b89882d8b9-0001.json",
+      "../verification/b998e8b89882d8b9-0006.json",
+      "../verification/b998e8b89882d8b9-0011.json"
+    ]
+  },
+  {
+    "issuance_id": "72af6d0f26a861aa",
+    "actual_issue_time_utc": "2026-10-25T01:13:50Z",
+    "mode": "authentic",
+    "forecast_file": "../archive/issues/72af6d0f26a861aa.json",
+    "verification_files": [
+      "../verification/72af6d0f26a861aa-0001.json",
+      "../verification/72af6d0f26a861aa-0006.json",
+      "../verification/72af6d0f26a861aa-0011.json"
+    ]
+  },
+  {
+    "issuance_id": "7c9e599db39d08a8",
+    "actual_issue_time_utc": "2026-10-25T06:09:59Z",
+    "mode": "authentic",
+    "forecast_file": "../archive/issues/7c9e599db39d08a8.json",
+    "verification_files": [
+      "../verification/7c9e599db39d08a8-0001.json",
+      "../verification/7c9e599db39d08a8-0006.json",
+      "../verification/7c9e599db39d08a8-0011.json"
+    ]
+  },
+  {
+    "issuance_id": "f17f313254af9471",
+    "actual_issue_time_utc": "2026-10-25T11:29:34Z",
+    "mode": "authentic",
+    "forecast_file": "../archive/issues/f17f313254af9471.json",
+    "verification_files": [
+      "../verification/f17f313254af9471-0001.json",
+      "../verification/f17f313254af9471-0006.json",
+      "../verification/f17f313254af9471-0011.json",
+      "../verification/f17f313254af9471-0016.json"
+    ]
+  },
+  {
+    "issuance_id": "749a0eedb7ee7115",
+    "actual_issue_time_utc": "2026-10-25T11:46:57Z",
+    "mode": "authentic",
+    "forecast_file": "../archive/issues/749a0eedb7ee7115.json",
+    "verification_files": [
+      "../verification/749a0eedb7ee7115-0001.json",
+      "../verification/749a0eedb7ee7115-0006.json",
+      "../verification/749a0eedb7ee7115-0011.json",
+      "../verification/749a0eedb7ee7115-0016.json"
+    ]
+  },
+  {
+    "issuance_id": "c56d924af9b9075c",
+    "actual_issue_time_utc": "2026-10-25T16:19:16Z",
+    "mode": "authentic",
+    "forecast_file": "../archive/issues/c56d924af9b9075c.json",
+    "verification_files": [
+      "../verification/c56d924af9b9075c-0001.json",
+      "../verification/c56d924af9b9075c-0006.json"
+    ]
+  },
+  {
+    "issuance_id": "fe5a8fb602234a79",
+    "actual_issue_time_utc": "2026-10-25T19:37:30Z",
+    "mode": "authentic",
+    "forecast_file": "../archive/issues/fe5a8fb602234a79.json",
+    "verification_files": [
+      "../verification/fe5a8fb602234a79-0001.json",
+      "../verification/fe5a8fb602234a79-0006.json"
+    ]
+  },
+  {
+    "issuance_id": "c8295ee024c145cc",
+    "actual_issue_time_utc": "2026-10-25T22:33:31Z",
+    "mode": "authentic",
+    "forecast_file": "../archive/issues/c8295ee024c145cc.json",
+    "verification_files": [
+      "../verification/c8295ee024c145cc-0001.json",
+      "../verification/c8295ee024c145cc-0006.json"
+    ]
+  },
+  {
+    "issuance_id": "d06afb621e8c4c0c",
+    "actual_issue_time_utc": "2026-10-26T01:10:29Z",
+    "mode": "authentic",
+    "forecast_file": "../archive/issues/d06afb621e8c4c0c.json",
+    "verification_files": [
+      "../verification/d06afb621e8c4c0c-0001.json",
+      "../verification/d06afb621e8c4c0c-0006.json"
+    ]
+  },
+  {
+    "issuance_id": "f6cdf9e9e7f07233",
+    "actual_issue_time_utc": "2026-10-26T06:13:47Z",
+    "mode": "authentic",
+    "forecast_file": "../archive/issues/f6cdf9e9e7f07233.json",
+    "verification_files": [
+      "../verification/f6cdf9e9e7f07233-0001.json",
+      "../verification/f6cdf9e9e7f07233-0006.json"
+    ]
+  },
+  {
+    "issuance_id": "e010d39f7dbb5400",
+    "actual_issue_time_utc": "2026-10-26T12:24:50Z",
+    "mode": "authentic",
+    "forecast_file": "../archive/issues/e010d39f7dbb5400.json",
+    "verification_files": []
+  },
+  {
+    "issuance_id": "8de7eef8524c3dcb",
+    "actual_issue_time_utc": "2026-10-26T13:07:55Z",
+    "mode": "authentic",
+    "forecast_file": "../archive/issues/8de7eef8524c3dcb.json",
+    "verification_files": []
+  },
+  {
+    "issuance_id": "8c9de07aa2eec21f",
+    "actual_issue_time_utc": "2026-10-26T13:32:35Z",
+    "mode": "authentic",
+    "forecast_file": "../archive/issues/8c9de07aa2eec21f.json",
+    "verification_files": []
+  },
+  {
+    "issuance_id": "4966d00ea83a2510",
+    "actual_issue_time_utc": "2026-10-26T13:56:45Z",
+    "mode": "authentic",
+    "forecast_file": "../archive/issues/4966d00ea83a2510.json",
+    "verification_files": []
+  },
+  {
+    "issuance_id": "e8f0e4326596bc5d",
+    "actual_issue_time_utc": "2026-10-26T14:38:19Z",
+    "mode": "authentic",
+    "forecast_file": "../archive/issues/e8f0e4326596bc5d.json",
+    "verification_files": []
+  },
+  {
+    "issuance_id": "86842850858e2a35",
+    "actual_issue_time_utc": "2026-10-26T15:02:37Z",
+    "mode": "authentic",
+    "forecast_file": "../archive/issues/86842850858e2a35.json",
+    "verification_files": []
+  }
+]
