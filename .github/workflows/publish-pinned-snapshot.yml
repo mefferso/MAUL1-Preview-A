@@ -1,0 +1,69 @@
+name: Publish pinned Design A snapshot
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/publish-pinned-snapshot.yml"
+permissions:
+  contents: write
+  pages: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout preview repository
+        uses: actions/checkout@v4
+      - name: Checkout Design A from its fixed source commit
+        uses: actions/checkout@v4
+        with:
+          repository: mefferso/MAUL1-Coastal-Influence
+          ref: 2b93ee66f958b1924fd492e6fa086c17954d36ba
+          path: source
+          sparse-checkout: site
+          sparse-checkout-cone-mode: true
+      - name: Publish the static site to preview main root
+        run: |
+          cp -a source/site/. .
+          rm -rf source
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Preview root already matches the pinned source."
+          else
+            git commit -m "Publish Design A site from pinned production snapshot"
+            git push origin HEAD:main
+          fi
+      - name: Configure Pages for main root
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPOSITORY: ${{ github.repository }}
+        run: |
+          endpoint="https://api.github.com/repos/$GH_REPOSITORY/pages"
+          payload='{"build_type":"legacy","source":{"branch":"main","path":"/"}}'
+          response="$(mktemp)"
+          code="$(curl -sS -o "$response" -w "%{http_code}" -X POST "$endpoint" \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            -H "Content-Type: application/json" --data "$payload")"
+          if [ "$code" = "201" ] || [ "$code" = "200" ]; then
+            echo "GitHub Pages configured from main:/"
+            cat "$response"
+            exit 0
+          fi
+          if [ "$code" = "409" ] || [ "$code" = "422" ]; then
+            code="$(curl -sS -o "$response" -w "%{http_code}" -X PUT "$endpoint" \
+              -H "Accept: application/vnd.github+json" \
+              -H "Authorization: Bearer $GH_TOKEN" \
+              -H "X-GitHub-Api-Version: 2022-11-28" \
+              -H "Content-Type: application/json" --data "$payload")"
+            if [ "$code" = "200" ]; then
+              echo "Existing GitHub Pages site updated to main:/"
+              cat "$response"
+              exit 0
+            fi
+          fi
+          echo "::warning::Could not configure Pages (HTTP $code). Configure Settings > Pages > Deploy from a branch > main > /(root)."
+          cat "$response"
+          echo "Manual step required: Settings > Pages > Deploy from a branch > main > /(root)." >> "$GITHUB_STEP_SUMMARY"
